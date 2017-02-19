@@ -11,6 +11,8 @@ namespace Sol_TEST
         static void Main(string[] args)
         {
             Console.WriteLine("hello github");
+            
+            Console.WriteLine("Hello world");
         }
     }
 }
